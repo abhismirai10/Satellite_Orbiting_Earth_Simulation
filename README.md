@@ -7,6 +7,7 @@ This repository contains a Blender simulation of a satellite orbiting Earth, des
 - [Description](#description)
 - [Preview Video](https://youtu.be/rEmmlN9yqSI)
 - [Installation](#installation)
+- [Requirement](#requirement)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -50,6 +51,11 @@ The satellite orbits approximately 50 m + (127.56 m / 2) ≈ 113.78 m from the E
      default settings.
    - Alternatively, run the script `orbit_around_satellite.py` to automate the process.
 
+
+## Requirement
+
+  - Nvidia GPU (any 3060 or higher will do)
+  - basic knowledge of blender
 
 ## Folder Structure
 
