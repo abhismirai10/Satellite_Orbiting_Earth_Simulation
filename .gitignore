@@ -1,7 +1,3 @@
-Dataset/
-Nasa Earth Textures/
-Nasa images/
-3DGS data gen/
-3DGS data gen02/
-3DGS data gen03/
+Textures/
+Scene/Datasets/*
 
